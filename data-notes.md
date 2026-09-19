@@ -6,7 +6,9 @@
 - Columns:  lga_name (text), state (text)
 - No nulls in lga_name
 - Covers my LGA fully
-## OSM roads, geofabrik.de
+  
+## OSM roads, 
+- Source: https://download.geofabrik.de
 - Extracted: clipped area of interest 
 - 12,796 features, lines
 - most names are NULL.
@@ -20,4 +22,15 @@
 - All layers clipped to study area, then reprojected to EPSG:32631 (UTM 31N)
 - Area check: Alimosho LGA 182.827863997222 m2, matches published figure
 - Working files in data/processed/, raw files untouched
+
+## OSM roads, Ibadan North
+- Extracted
+- 1,247 features
+- COMPLETENESS: good in built-up area. Compared my own
+ street: All roads present. 
+- CURRENCY: my street is up to date
+- POSITIONAL: roads align well with satellite imagery, no
+ systematic offset visible.
+- ATTRIBUTE: majority of the roads do not have names, not recorded.
+- FITNESS: adequate 
 
