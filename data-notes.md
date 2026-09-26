@@ -20,12 +20,12 @@
 - All source layers arrived in EPSG:4326
 - Study area: Alimosho LGA, extracted from GRID3 wards
 - All layers clipped to study area, then reprojected to EPSG:32631 (UTM 31N)
-- Area check: Alimosho LGA 182.827863997222 m2, matches published figure
+- Area check: Alimosho LGA 182.827863997222 km2, matches published figure
 - Working files in data/processed/, raw files untouched
 
-## OSM roads, Ibadan North
+## OSM roads, Alimosho
 - Extracted
-- 1,247 features
+- 12796 features
 - COMPLETENESS: good in built-up area. Compared my own
  street: All roads present. 
 - CURRENCY: my street is up to date
