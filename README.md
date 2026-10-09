@@ -9,5 +9,6 @@ See project-brief.md for the full brief.
 ## Month 2: development environment and early Python
 
 - Week 5: set up Python, VS Code and the terminal. hello.py runs.
-
-S
+- Week 6: set up initialize uv.
+  files added: pyproject.toml, uv.lock, __init__.py (corresponds to main.py). week6.png
+  
