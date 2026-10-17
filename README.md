@@ -11,4 +11,5 @@ See project-brief.md for the full brief.
 - Week 5: set up Python, VS Code and the terminal. hello.py runs.
 - Week 6: set up initialize uv.
   files added: pyproject.toml, uv.lock, __init__.py (corresponds to main.py). week6.png
-  
+- Week 7: Python Basics.
+  files added: analyse.py, wards.csv and week7.png
